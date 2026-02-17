@@ -12,6 +12,6 @@
     "@azure/keyvault-secrets": "^4.7.0"
   },
   "engines": {
-    "node": ">=18.x"
+    "node": "18.x"
   }
 }
